@@ -1,0 +1,20 @@
+src/
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   ├── calendar/
+│   │   ├── Calendar.tsx
+│   │   └── CalendarGrid.tsx
+│   ├── schedule/
+│   │   ├── SubjectList.tsx
+│   │   └── ScheduleItem.tsx
+│   └── ui/
+│       ├── Button.tsx
+│       └── Card.tsx
+├── lib/
+│   ├── data.ts
+│   └── utils.ts
+└── types/
+    └── index.ts
